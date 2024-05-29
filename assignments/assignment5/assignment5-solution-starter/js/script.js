@@ -275,6 +275,7 @@ function buildMenuItemsViewHtml(categoryMenuItems,
       insertItemPrice(html,
                       "price_small",
                       menuItems[i].price_small);
+                      
     html =
       insertItemPortionName(html,
                             "small_portion_name",
